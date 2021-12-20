@@ -60,6 +60,6 @@ public class TxProducer {
             }
         });
 
-        producer.shutdown();
+//        producer.shutdown();
     }
 }
